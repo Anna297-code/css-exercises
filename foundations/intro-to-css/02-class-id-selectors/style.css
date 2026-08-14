@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+.pink-background {
+    background-color: hsl(0, 100%, 75%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.green-background {
+    background-color: hsl(120, 65%, 76%);
+}
+
+.small-font {
+    font-size: 24px;
+}
+
+.big-font {
+    font-size: 36px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text-blue {
+    color: blue;
+}
+
