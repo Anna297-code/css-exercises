@@ -13,7 +13,6 @@ p.small-para {
   font-weight: 800;
 }
 
-
 .para {
   font-size: 22px;
 }
@@ -36,7 +35,7 @@ p.small-para {
   font-size: 14px;
 }
 
-div.text {
+div {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
