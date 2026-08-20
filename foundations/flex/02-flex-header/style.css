@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 8px;
 }
 
 .logo {
@@ -12,8 +13,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 6px;
-
 }
 
 
@@ -21,10 +20,12 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  padding: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
 }
 
 
@@ -32,7 +33,6 @@ a {
   font-size: 22px;
   background: white;
   padding: 8px;
-  margin: 5px;
   /* this removes the line under the links */
   text-decoration: none;
 
